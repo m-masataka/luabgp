@@ -1,3 +1,4 @@
+
 local function string2byte(data)
     local i = 1
     local t = {}
