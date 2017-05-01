@@ -12,7 +12,7 @@ You can get specific LuaSocket version by following commands.
 # make LUAV=5.1 install 
 ```
 
-You also need to install lua-copas.
+You also need to install lua-copas project.
 ```
 # apt-get install lua-copas
 ```
